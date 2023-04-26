@@ -37,8 +37,8 @@ The user should clone the repository from GitHub. This application requires Node
 
 - Application Screenshot:
 
-- [Application Video Walkthrough](https://drive.google.com/file/d/1qJm7U8992GLSIeNYYlxtpsOnOyvxdI-9/view?usp=sharing)
-- [Application Video Walkthrough](https://drive.google.com/file/d/1iEWB4zvK24b1m4Op3TdJv7QEBx7wQKf_/view?usp=sharing)
+- [Application Video Walkthrough-1](https://drive.google.com/file/d/1qJm7U8992GLSIeNYYlxtpsOnOyvxdI-9/view?usp=sharing)
+- [Application Video Walkthrough-2](https://drive.google.com/file/d/1iEWB4zvK24b1m4Op3TdJv7QEBx7wQKf_/view?usp=sharing)
 
 - [Repository URL](https://github.com/bundleofcodes/my-ecommerce-backend)
 
